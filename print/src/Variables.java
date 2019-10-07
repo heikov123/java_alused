@@ -1,11 +1,11 @@
 public class Variables {
     public static void main(String[] args){
         String chick = "Chickens:";
-        int chickNr = 3;
+        int chickNr = 9000;
         String bacon = "Bacon (kg)";
-        double baconNr = 5.5;
+        double baconNr = 0.1;
         String tractor = "A tractor:";
-        String none = "There is none!";
+        String zetor = "Zetor";
         String nutshell = "In a nutshell:";
 
 
@@ -14,11 +14,11 @@ public class Variables {
         System.out.println(bacon);
         System.out.println(baconNr);
         System.out.println(tractor);
-        System.out.println(none);
+        System.out.println(zetor);
         System.out.println("");
         System.out.println(nutshell);
         System.out.println(chickNr);
         System.out.println(baconNr);
-        System.out.println(none);
+        System.out.println(zetor);
     }
 }

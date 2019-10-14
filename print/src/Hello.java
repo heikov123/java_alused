@@ -1,6 +1,6 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Hello WOrld!");
-        System.out.print("First\nSecond\nThird");
+        System.out.println("Hello World!");
+        System.out.println("(And all the people of the world)");
     }
 }

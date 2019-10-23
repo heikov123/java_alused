@@ -11,7 +11,7 @@ public class Exercise51 {
         for (i = 0; i < name.length(); i++) {
             if (i >= name.length()) {
                 return;
-            } else if (name.length() < 3) {
+            } else if (3 > name.length()) {
                 return;
             }
             System.out.println(i + ". character: " + name.charAt(i));
